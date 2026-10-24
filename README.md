@@ -24,6 +24,14 @@ I'm a **B.Pharm student (2024–2028)** at **Rathinam College of Pharmacy, Coimb
 
 Prescripsy screens a patient's **complete medicine list** for drug–drug interactions, flagging risky combinations for pharmacist review **before dispensing** — closing the gap between counters that nobody else sees.
 
+**Focus:** medication-safety engineering, drug–drug interaction detection, and building the Prescripsy ecosystem.
+
+## Education & Experience
+
+- 🎓 **B.Pharm (2024–2028)** — Rathinam College of Pharmacy, Coimbatore, Tamil Nadu, India
+- 💻 **Technology Intern — AI, ML, Data Analytics, UI/UX & Full Stack Development** — NoviTech (Aug–Sep 2026), with 7 certificates in Licenses & certifications
+- 🔬 **Research Intern (May–Jul 2025, part-time)** — DREG4M, then **Research Assistant Intern (Jul 2025 onwards)** — DREG4M
+
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -51,6 +59,19 @@ Prescripsy screens a patient's **complete medicine list** for drug–drug intera
 | **Med Log Doctor** | Doctor app — prescriptions & patient records | [Open →](https://frolicking-dusk-9c5719.netlify.app) |
 | **Rx Link** | Pharmacy app — dispensing & interaction checks | [Open →](https://transcendent-crisp-2c3e8d.netlify.app) |
 | **CareLoop Courier Connect** | Delivery app — medicine courier tracking | [Open →](https://shiny-muffin-741b89.netlify.app) |
+
+**Open source tools — medication-safety utilities (educational/demo only, not medical advice):**
+
+| Tool | What it does |
+|---|---|
+| [prescription-decoder](https://github.com/mmuhamadashik95-dot/prescription-decoder) | Decode prescription abbreviations (OD, BD, TDS, HS, SOS…) into plain language |
+| [ddi-checker](https://github.com/mmuhamadashik95-dot/ddi-checker) | Check a medicine list against example drug-interaction pairs |
+| [dosage-calculator](https://github.com/mmuhamadashik95-dot/dosage-calculator) | Weight-based dose calculator with safety caps |
+| [drug-food-interactions](https://github.com/mmuhamadashik95-dot/drug-food-interactions) | Check medicines against food interactions |
+| [generic-name-finder](https://github.com/mmuhamadashik95-dot/generic-name-finder) | Map brand names to generic names |
+| [med-expiry-tracker](https://github.com/mmuhamadashik95-dot/med-expiry-tracker) | Home medicine cabinet tracker with expiry warnings |
+| [med-reminder](https://github.com/mmuhamadashik95-dot/med-reminder) | Medicine reminder scheduler |
+| [pharmacy-inventory](https://github.com/mmuhamadashik95-dot/pharmacy-inventory) | Small pharmacy stock manager with low-stock and expiry alerts |
 
 ## GitHub Activity
 
