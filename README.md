@@ -1,10 +1,12 @@
+<!-- NOTE: upload assets/banner.png to the repo root (assets/banner.png) alongside this README before publishing — the banner image below references it. -->
+
+![M.Muhamad Ashik — Building safer prescription technology](assets/banner.png)
+
 <div align="center">
 
-# M.Muhamad Ashik
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFB020&center=true&vCenter=true&width=600&lines=Founder+%40+Prescripsy;B.Pharm+student;AI+%C3%97+Pharmacy;Building+safer+prescriptions)](https://git.io/typing-svg)
 
 **Founder @ Prescripsy · B.Pharm Student · AI & Full-Stack Developer**
-
-*Building AI technology that makes prescriptions safer — from Coimbatore, India.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-muhamad-ashik-987a4033b)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-072A43?style=for-the-badge&logo=vercel&logoColor=white)](https://muhamad-ashik-prescripsy.netlify.app)
@@ -34,22 +36,37 @@ Prescripsy screens a patient's **complete medicine list** for drug–drug intera
 
 ## Featured Projects
 
-| Project | What it does | Live |
+<div align="center">
+
+[![Prescripsy Platform](https://github-readme-stats.vercel.app/api/pin/?username=mmuhamadashik95-dot&repo=PRESCRIPSY&theme=dark&bg_color=072A43&title_color=FFB020&text_color=E6EDF3&icon_color=38BDF8&hide_border=true)](https://github.com/mmuhamadashik95-dot/PRESCRIPSY)
+[![Rx Link](https://github-readme-stats.vercel.app/api/pin/?username=mmuhamadashik95-dot&repo=Rx-Prescripsy&theme=dark&bg_color=072A43&title_color=FFB020&text_color=E6EDF3&icon_color=38BDF8&hide_border=true)](https://github.com/mmuhamadashik95-dot/Rx-Prescripsy)
+
+</div>
+
+**Live apps — the full medication journey:**
+
+| App | What it does | Live |
 |---|---|---|
 | **Med Track** | Patient app — medicine tracking & safety | [Open →](https://effortless-cajeta-02d5dd.netlify.app) |
 | **Med Log Doctor** | Doctor app — prescriptions & patient records | [Open →](https://frolicking-dusk-9c5719.netlify.app) |
 | **Rx Link** | Pharmacy app — dispensing & interaction checks | [Open →](https://transcendent-crisp-2c3e8d.netlify.app) |
 | **CareLoop Courier Connect** | Delivery app — medicine courier tracking | [Open →](https://shiny-muffin-741b89.netlify.app) |
-| **Prescripsy Platform** | Original full-stack platform (React + Python, interaction dataset) | [Repo →](https://github.com/mmuhamadashik95-dot/PRESCRIPSY) |
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmuhamadashik95-dot&show_icons=true&theme=dark&bg_color=072A43&title_color=FFB020&text_color=E6EDF3&icon_color=38BDF8&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmuhamadashik95-dot&layout=compact&theme=dark&bg_color=072A43&title_color=FFB020&text_color=E6EDF3&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mmuhamadashik95-dot&theme=dark&background=072A43&ring=FFB020&fire=FFB020&currStreakLabel=38BDF8&sideLabels=E6EDF3&dates=E6EDF3&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mmuhamadashik95-dot&theme=react-dark&bg_color=072A43&color=38BDF8&line=FFB020&point=E6EDF3&hide_border=true)
+
+![Contribution Snake](https://raw.githubusercontent.com/mmuhamadashik95-dot/mmuhamadashik95-dot/output/github-contribution-grid-snake.svg)
 
 </div>
+
+> The contribution snake is generated automatically from this account's public activity (via the github-contribution-grid-snake workflow — enable it on the repo's Actions tab after publishing so the snake stays live).
 
 ## Research
 
