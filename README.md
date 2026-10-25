@@ -72,6 +72,7 @@ Prescripsy screens a patient's **complete medicine list** for drug–drug intera
 | [med-expiry-tracker](https://github.com/mmuhamadashik95-dot/med-expiry-tracker) | Home medicine cabinet tracker with expiry warnings |
 | [med-reminder](https://github.com/mmuhamadashik95-dot/med-reminder) | Medicine reminder scheduler |
 | [pharmacy-inventory](https://github.com/mmuhamadashik95-dot/pharmacy-inventory) | Small pharmacy stock manager with low-stock and expiry alerts |
+| [ddi-network-analytics](https://github.com/mmuhamadashik95-dot/ddi-network-analytics) | Medicine interaction network analytics — hubs, communities, risk scores |
 
 ## GitHub Activity
 
